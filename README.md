@@ -1,6 +1,6 @@
 # Quantum Information Science 
 
-###  Research, Algorithms and Code
+###  Research on Algorithms and Code
 
 Copyright (c) 2019 Asif Shakeel
 
